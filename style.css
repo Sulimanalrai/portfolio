@@ -371,13 +371,13 @@ section .title::after{
     width: 100%;
 }
 .skills-content .right .css::before{
-    width: 0%;
+    width: 100%;
 }
 .skills-content .right .js::before{
     width: 100%;
 }
 .skills-content .right .csharp::before{
-    width: 0%;
+    width: 100%;
 }
 .skills-content .right .Bootstrap::before{
     width: 100%;
